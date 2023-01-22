@@ -1,4 +1,8 @@
 # Spliting each ET combination to a set of Train/Validatoin/Test subsets
+
+
+
+
 # This script assumes that the ET data are in the same folder as this file and are in csv format.
 # the two first lines will be used for running on a server (avoiding the no display name error )
 
